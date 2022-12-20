@@ -10,3 +10,11 @@ Some resources that I use to learn Starknet/Cairo
 [Starknet Faucet](https://faucet.goerli.starknet.io)
 
 [StarkNet Deploy Smart Contract. Step by step guide](https://medium.com/@NewProject1/starknet-deploy-smart-contract-step-by-step-guide-9cc068f921aa)
+
+[Voting workshop](https://www.youtube.com/watch?v=fpwSdNnzulM) [slides](https://docs.google.com/presentation/d/1UswoPfafsoWe-KjLxD2slp3ulf0R3K10s93BXehRbow/edit#slide=id.gf6845ebd12_1_182)[notion](https://starkware.notion.site/starkware/StarkNet-Voting-Workshop-b61ef5f4a62d45af86892cba3158f7e6)
+
+[Full-Stack starknet](https://hackmd.io/@sambarnes/BJvGs0JpK)
+
+[Github Cairo 101](https://github.com/l-henri/starknet-cairo-101)
+
+[Compilation of resources](https://github.com/l-henri/awesome-starknet)
