@@ -17,7 +17,7 @@ Some resources that I use to learn Starknet/Cairo
 
 [Github Cairo 101](https://github.com/l-henri/starknet-cairo-101)
 
-[Compilation of resources](https://github.com/l-henri/awesome-starknet
+[Compilation of resources](https://github.com/l-henri/awesome-starknet)
 
 [ZK reading list](https://www.notion.so/ZK-Reading-List-1d17ac8457994ce080b1a00100ce7b53)
 
