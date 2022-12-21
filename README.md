@@ -17,4 +17,19 @@ Some resources that I use to learn Starknet/Cairo
 
 [Github Cairo 101](https://github.com/l-henri/starknet-cairo-101)
 
-[Compilation of resources](https://github.com/l-henri/awesome-starknet)
+[Compilation of resources](https://github.com/l-henri/awesome-starknet
+
+[ZK reading list](https://www.notion.so/ZK-Reading-List-1d17ac8457994ce080b1a00100ce7b53)
+
+[Starknet developer tools](https://starknet.io/building-on-starknet/developer-tools/#editor_plugins)
+
+[starknet docs](https://docs.starknet.io/documentation/architecture_and_concepts/L1-L2_Communication/token-bridge/#)
+
+[cairo docs](https://www.cairo-lang.org)
+
+[ZK STARKS e Intro a Cairo - @dpinoness](https://www.youtube.com/watch?v=rZiwH8yZ77Q)
+[Encode x StarkNet Autumn Hackathon: Introduction to Cairo](https://www.youtube.com/watch?v=3atDoL0M7T0)
+
+[Jouney through cairo 1](https://medium.com/@darlingtonnnam/journey-through-cairo-i-setting-up-protostar-and-argentx-for-local-development-ba40ae6c5524)
+[Jouney through cairo 2](https://medium.com/coinmonks/journey-through-cairo-ii-mastering-cairos-syntaxes-with-starklings-8d3cbad6946)
+[Jouney through cairo 3](https://medium.com/coinmonks/journey-through-cairo-iii-a-deep-dive-into-strings-and-felts-with-starklings-2bb6abff2d83)
